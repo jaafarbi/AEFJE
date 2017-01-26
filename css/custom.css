@@ -1630,7 +1630,7 @@ a.menu-toggle {
 	line-height: 1.8;
 	color: #8d8d8d;
 }
-#testimonial-slider p::before, #testimonial-slider p::after {
+/*#testimonial-slider p::before, #testimonial-slider p::after {
 	display: inline;
 	font-family: Arial, sans-serif;
 	color: #c7c7c7;
@@ -1639,7 +1639,7 @@ a.menu-toggle {
 	vertical-align: bottom;
 	position: relative;
 	top: -1.2rem;
-}
+}*/
 /*#testimonial-slider p::before {
 	margin-right: .5rem;
 	content: '\201C';
